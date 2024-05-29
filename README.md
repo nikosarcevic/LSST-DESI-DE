@@ -14,6 +14,8 @@ The fiducial values of the DE parameters are $w_0 = -1$ and $w_a = 0$ for the LS
 
 The values of th evolving DE parameters and their errors are taken from the DESI R1 results
  (see Table 3 in [DESI 2024 VI: Cosmological Constraints from the Measurements of BAO](https://arxiv.org/pdf/2404.03002) paper).
+
+ Feel free to use the results (with credits).
  
 
  ![w0wa plot](https://github.com/nikosarcevic/LSST-DESI-DE/blob/main/plots_output/3x2pt_lsst_desi_comparison_y1y10_w0wa.png))
