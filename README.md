@@ -19,3 +19,12 @@ The values of th evolving DE parameters and their errors are taken from the DESI
  
 
  ![w0wa plot](https://github.com/nikosarcevic/LSST-DESI-DE/blob/main/plots_output/3x2pt_lsst_desi_comparison_y1y10_w0wa.png))
+
+ ## More informative plots:
+ ** Comparison of the ratios of the errors on the parameters **
+ 
+ ![sigmas ratios](https://github.com/nikosarcevic/LSST-DESI-DE/blob/main/plots_output/sigmas_ratios.png))
+
+  ** Comparison of the absolute difference of the errors on the parameters **
+  
+ ![sigmas diffs](https://github.com/nikosarcevic/LSST-DESI-DE/blob/main/plots_output/sigmas_diffs.png))
