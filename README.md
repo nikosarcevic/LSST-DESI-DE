@@ -9,7 +9,7 @@ The fiducial values of the DE parameters are $w_0 = -1$ and $w_a = 0$ for the LS
  while for the LSST forecast with evolving DE parameters they are:
   - $w_0 = -0.727$ and $w_a = -1.05$ (DESI+CMB+DESY5).
   - $w_0 = -0.86$ and $w_a = -0.6$ (similar to DESI+CMB+Pantheon modified in light of LSST results with DESI+CMB+DESY5 and figure G2 from DESC SRD).
-Note that for the $w_0 w_a$ scenarios, I have used errors from DESI results!
+Note that for the $w_0 w_a$CDM scenarios, I have used errors from DESI results!
 
 The values of th evolving DE parameters and their errors are taken from the DESI R1 results
  (see Table 3 in [DESI 2024 VI: Cosmological Constraints from the Measurements of BAO](https://arxiv.org/pdf/2404.03002) paper).
